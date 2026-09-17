@@ -18,3 +18,11 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
+
+# Local SSH keys
+DAY-5/id_rsa
+DAY-5/id_rsa.pub
+DAY-5/id_rsa_day5
+DAY-5/id_rsa_day5.pub
+DAY-5/id_rsa_day5_pem
+DAY-5/id_rsa_day5_pem.pub
